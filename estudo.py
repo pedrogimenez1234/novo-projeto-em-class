@@ -21,5 +21,5 @@ class Cliente:
         print(f"Cadastro de {self.nome} realizado com sucesso!")
 
 
-cliente1 = Cliente("Pedro", 20)
+cliente1 = Cliente("Pedro")
 cliente1.cadastrar("pedro123@gmail.com", "12345")
